@@ -4,7 +4,7 @@ This is an exercise that demonstrates DOM (Document Obkect Model) scripting code
 The java script functions in app.js dynamically creates html elements in form of pacman images. The Add PacMan button will trigger the generation of pacman img element that is randomly placed within certain parameters on the page. 
 The Start Game button will continously update these elements and move them across the page while continously changing the images, giving the effect of pacman open and closing its mouth and facing the direction of movement. 
 
-
+To fix this project in the future, I am planning on debugging and optimizing the javascript code, so that the movement is more fluent and the mouth opening and closing won't glitch. 
 
 
 MIT License
